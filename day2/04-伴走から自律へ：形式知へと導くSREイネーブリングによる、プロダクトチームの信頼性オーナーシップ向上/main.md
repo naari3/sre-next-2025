@@ -25,3 +25,5 @@ SECIモデルを使う
     - 形式知を組み合わせて新しい知識を創造する
   - Internalization（内在化）
     - 形式知を実践に落とし込み、暗黙知として体得する
+
+https://speakerdeck.com/visional_engineering_and_design/sre-next-2025?slide=24
